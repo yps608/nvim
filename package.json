@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "coc-tsserver": ">=2.2.0",
+    "coc-java": ">=1.15.2",
+    "coc-json": ">=1.9.2",
+    "coc-solargraph": ">=1.2.4",
+    "coc-marketplace": ">=1.9.0",
+    "coc-highlight": ">=2.0.4"
+  }
+}
